@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liuqinfei
-- 👀 I’m interested in distributed storage and arm
+- 👀 I’m interested in distributed storage and Arm
 - 🌱 I’m currently learning ceph
 - 💞️ I’m looking to collaborate on optimizing ceph
 - 📫 How to reach me 18138800392@163.com
